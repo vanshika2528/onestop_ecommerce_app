@@ -1,5 +1,4 @@
-# onestop
-
+# OneStop - Ecommerce App
 A new Flutter project.
 
 ## Getting Started
