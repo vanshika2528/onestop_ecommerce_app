@@ -14,16 +14,3 @@ A modern and intuitive eCommerce Flutter application.
 
 ## 🎬 Demo Video
 👉 [Watch the app demo here](https://drive.google.com/file/d/1v3Nkm9M3LVv9x_b9TXknyOqgv-lXS0XG/view?usp=sharing)
-
-## 🚀 Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to help you get started with Flutter:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help with Flutter development, check the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, and a full API reference.
-
----
